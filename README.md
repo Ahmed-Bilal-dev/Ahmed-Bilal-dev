@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Man coding on a laptop" width="500"/>
 </p>
+
 
 ## 🚀 About Me
 Hello! I'm Ahmed Bilal, an undergraduate student pursuing a Bachelor's degree in Computer Science (BSCS) at FUUAST University Karachi, with an expected graduation in 2026. I have a strong passion for web development, particularly in frontend technologies, and I am eager to expand my skill set into full-stack development.
