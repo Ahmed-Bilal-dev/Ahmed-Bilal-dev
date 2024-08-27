@@ -1,5 +1,53 @@
 <h1 align="center">Hi 👋, I'm Ahmed Bilal</h1>
 <h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
+**Undergraduate Student | Frontend Developer | Aspiring Full Stack Developer**
+
+## About Me
+
+Hello! I'm Ahmed Bilal, an undergraduate student pursuing a Bachelor's degree in Computer Science (BSCS) at FUUAST University Karachi, with an expected graduation in 2026. I have a strong passion for web development, particularly in frontend technologies, and I am eager to expand my skill set into full-stack development.
+
+## Skills
+
+- **Frontend Development**: 
+  - HTML5, CSS3, Bootstrap
+  - JavaScript (ES6+)
+  - React.js (Beginner)
+
+- **Backend Development**: 
+  - Firebase (Authentication, Firestore)
+
+- **Tools & Technologies**: 
+  - Git & GitHub
+  - Visual Studio Code
+
+## Projects
+
+### Weather App
+A web application that allows users to enter a city name and receive current weather information. The app is built using HTML, CSS, JavaScript, and the OpenWeatherMap API.
+
+### GitHub Profile Searcher
+An application that enables users to search for GitHub profiles by username. The app displays the user's profile picture, name, and a follow button that redirects to their GitHub profile.
+
+### Login Form Project
+A login form that allows users to sign up with a profile picture, log in using their email and password, and see their profile picture and name displayed in the header. The project includes validation for duplicate email registration and real-time error messages.
+
+## Education
+
+- **Bachelor of Science in Computer Science (BSCS)**  
+  FUUAST University Karachi | Expected Graduation: 2026
+
+## Certifications
+
+- 6-Month Training Certificate in Medical Lab Techniques  
+  Civil Hospital Karachi
+
+## Contact
+
+- **LinkedIn**: https://www.linkedin.com/in/ahmedbilal786/
+- **GitHub**: https://github.com/Ahmed-Bilal-dev
+- **Email**: ahmedbilal786.1947@gmail.com
+
+I'm currently seeking opportunities to further develop my skills through internships, freelancing, or collaborative projects. Feel free to reach out!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-bilal-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-bilal-dev" /> </p>
 
